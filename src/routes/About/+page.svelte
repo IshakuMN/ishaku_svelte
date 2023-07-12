@@ -1,0 +1,53 @@
+<svelte:head>
+	<title>About</title>
+	<meta name="About" content="About me" />
+</svelte:head>
+
+<body>
+	<div>
+		<h1>About Us</h1>
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur ligula at dolor
+			malesuada, non posuere dui commodo. Nunc elementum, mauris sit amet luctus tempor, elit lorem
+			posuere lectus, in gravida felis sem vel mi. Praesent nec scelerisque quam. Vivamus id risus
+			sit amet mi feugiat aliquet a auctor risus. Donec sed nisi lectus. Nunc ut dictum odio.
+			Vestibulum fermentum mi risus, non lobortis lorem interdum at. Sed varius ullamcorper iaculis.
+			Fusce nec consequat purus. Etiam condimentum varius felis, nec fermentum sem vestibulum quis.
+		</p>
+
+		<p>
+			In hac habitasse platea dictumst. Integer efficitur, ex vitae pharetra lacinia, lectus nunc
+			gravida nunc, ac lacinia mi enim id erat. Mauris in varius neque, in sagittis lectus.
+			Phasellus mollis, quam ac fringilla laoreet, enim odio congue turpis, at tristique neque dolor
+			id erat. Etiam consectetur consectetur elit, vel eleifend metus iaculis non. Morbi eget dolor
+			euismod, condimentum tortor in, placerat nunc. Aliquam fringilla orci id tellus laoreet
+			gravida.
+		</p>
+
+		<p>
+			Nullam hendrerit libero a malesuada bibendum. Sed bibendum elit id tortor fringilla pulvinar.
+			Duis dignissim lectus in purus feugiat gravida. Quisque feugiat posuere justo eget sagittis.
+			Pellentesque interdum, justo non congue blandit, erat nisi tristique lacus, at fermentum urna
+			arcu nec nunc. Phasellus fermentum libero at orci convallis, ut sagittis quam efficitur.
+			Mauris in nibh id sem condimentum viverra. Sed eget pharetra mauris, ut ullamcorper elit. In
+			hac habitasse platea dictumst. In eu nisi nec nunc volutpat pretium vitae eget erat. Nulla
+			facilisi. Sed et felis eu nunc interdum consectetur vel vitae est. Duis condimentum lacinia
+			neque, id consectetur enim pellentesque non. Curabitur sollicitudin justo id purus gravida, ac
+			malesuada est semper. Aliquam fringilla rhoncus erat ut semper. Nullam vulputate ligula vitae
+			lectus lacinia, vel eleifend ipsum vestibulum.
+		</p>
+	</div>
+</body>
+
+<style>
+	body {
+		background: '#FFFBF5';
+	}
+
+	div {
+		position: fixed;
+		max-width: 600px;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+</style>
