@@ -3,6 +3,7 @@
 	<meta name="About" content="About me" />
 </svelte:head>
 
+
 <body>
 	<div>
 		<h1>About Us</h1>

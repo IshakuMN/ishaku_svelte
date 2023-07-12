@@ -1,7 +1,10 @@
 <script>
-	import Contacts from './contacts.svelte';
+    import Contacts from "./contacts.svelte";
+    
 </script>
 
 <slot />
 
-<Contacts />
+<Contacts/>
+
+
